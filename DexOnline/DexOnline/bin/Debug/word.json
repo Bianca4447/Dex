@@ -1,0 +1,18 @@
+[
+
+  {
+    "Id": "1",
+    "Word": "banana",
+    "Description": "este un fruct",
+    "Image": "no",
+    "Category": "fructe"
+  },
+  
+  {
+    "Id": "2",
+    "Word": "carnati",
+    "Description": "este un preparat romanesc",
+    "Image": "no",
+    "Category": "mancare"
+  }
+][{"Id":"1","Word":"banana","Description":"este un fruct","Image":"","Category":"fructe"}][{"Id":"1","Word":"banana","Description":"este un fruct","Image":"C:\\Users\\biama\\Documents\\dog.jpg","Category":"fructe"}][{"Id":"2","Word":"ciocolata","Description":"este un desert","Category":"mancare","Image":"C:\\Users\\biama\\Documents\\dog.jpg"}][{"Id":"1","Word":"banana","Description":"este un fruct","Image":"C:/Users/biama/Documents/Default.jpg","Category":"fructe"}]

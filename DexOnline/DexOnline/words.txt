@@ -1,0 +1,10 @@
+1#catel#Animal de companie supranumit cel mai bun prieten al omului#animal#file:///C:/Users/biama/Documents/PhotosDEX/dog.jpg
+2#ulei#Lichid gras de proveniență vegetală#aliment#C:\Users\biama\Documents\PhotosDEX\ulei.jpg
+3#hanorac#Haină scurtă confecționată din pânză deasă, de obicei impermeabilă, și prevăzută cu glugă.#imbracaminte#C:\Users\biama\Documents\PhotosDEX\hanorac.jpg
+4#lapte#Lichid alb-gălbui cu gust dulceag, foarte hrănitor, secretat de glandele mamare ale femelelor mamiferelor (care constituie hrana exclusivă a sugarului și a puiului de animal).#bautura#C:\Users\biama\Documents\PhotosDEX\lapte.jpg
+5#carnati# Produs alimentar preparat din carne tocată și condimente, introduse în intestine de porc, de oaie sau într-un înveliș din material sintetic.#aliment#C:\Users\biama\Documents\PhotosDEX\carnati.jpg
+6#cafea#Băutură preparată din cafea .#bautura#C:\Users\biama\Documents\PhotosDEX\cafea.jpg
+7#blugi#Pantaloni din țesătură specială de bumbac#imbracaminte#C:\Users\biama\Documents\PhotosDEX\blugi.jpg
+8#biscuiti#Produs alimentar bine deshidratat prin coacerea unui aluat de prăjitură, tăiat în diferite forme (cerculețe, pătrățele, litere etc.)#aliment#C:\Users\biama\Documents\PhotosDEX\biscuiti.jpg
+9#deodorant#(Produs cosmetic) care reduce sau elimină mirosul de transpirație.#produs#C:\Users\biama\Documents\PhotosDEX\deodorant.jpg
+10#apa#Lichid incolor, fără gust și fără miros#bautura#C:\Users\biama\Documents\PhotosDEX\apa.jpg
